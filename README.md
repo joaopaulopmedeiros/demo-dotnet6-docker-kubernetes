@@ -29,6 +29,9 @@ minikube dashboard
 Minikube Dashboard
 <img src=".github/images/minikube-dashboard.png"/>
 
+Swagger
+<img src=".github/images/swagger.png"/>
+
 ## Clean up
 If you're done, for deleting everything type
 ```
