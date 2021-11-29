@@ -13,8 +13,7 @@ spec:
     spec:
       containers:
       - name: demo
-        image: demo
-        imagePullPolicy: Never
+        image: joaopaulopmedeiros/demo-dotnet-6-docker-kubernetes:latest
         resources:
           limits:
             memory: "256Mi"
