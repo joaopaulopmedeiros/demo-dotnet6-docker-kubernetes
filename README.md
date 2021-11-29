@@ -18,9 +18,15 @@ minikube start
 ```
 Deploy your app using kubernetes as orchestrator
 ```
-minikube kubectl -- apply -f deployment.yml
+minikube kubectl -- apply -f deployment.local.yml
 ```
 And check it out on a cool dash
 ```
 minikube dashboard
+```
+
+## Clean up
+If you're done, for deleting everything type
+```
+kubectl delete -n default deployment demo
 ```
