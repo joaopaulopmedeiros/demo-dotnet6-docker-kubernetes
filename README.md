@@ -26,10 +26,10 @@ minikube dashboard
 ```
 
 ## Results
-Minikube Dashboard
+Minikube Dashboard after deploy
 <img src=".github/images/minikube-dashboard.png"/>
 
-Swagger
+Swagger on docker image
 <img src=".github/images/swagger.png"/>
 
 ## Clean up
