@@ -25,6 +25,10 @@ And check it out on a cool dash
 minikube dashboard
 ```
 
+## Results
+Minikube Dashboard
+<img src=".github/images/minikube-dashboard.png"/>
+
 ## Clean up
 If you're done, for deleting everything type
 ```
