@@ -14,3 +14,6 @@ Finally publish it
 ```
 docker push username/demo-dotnet-6-docker-kubernetes:latest
 ```
+
+## More info
+- https://docs.docker.com/
